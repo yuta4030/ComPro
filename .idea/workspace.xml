@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dc178ff-7105-46ed-acbf-f286ed2ee0ee" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoderBeginnerContest/_095/BitterAlchemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoderBeginnerContest/_095/HalfAndHalf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoderBeginnerContest/_095/SomethingOnIt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoderBeginnerContest/_096/DayOfTakahashi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoderBeginnerContest/_096/FiveFiveEveryWhere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoderBeginnerContest/_096/GridRepainting2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoderBeginnerContest/_096/MaximumSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoderBeginnerContest/_097/ColorfulTransceivers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoderBeginnerContest/_097/Equals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoderBeginnerContest/_097/Exponential.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoderBeginnerContest/_097/K_thSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoderGrandContest/_024/Fairness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoderTypicalContest001/DepthFirstSearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoderTypicalContest001/UnionFindTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoder_Beginners_Selection/CardGameforTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoder_Beginners_Selection/Coins.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoder_Beginners_Selection/Daydream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoder_Beginners_Selection/KagamiMochi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoder_Beginners_Selection/Otoshidama.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoder_Beginners_Selection/PlacingMarbles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoder_Beginners_Selection/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoder_Beginners_Selection/ShiftOnly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoder_Beginners_Selection/SomeSums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/AtCoder_Beginners_Selection/Traveling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yuta4030/com/github/practice_contest/A.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1645" />
+    <option name="y" value="-403" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Compro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Compro" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dc178ff-7105-46ed-acbf-f286ed2ee0ee" name="Default" comment="" />
+      <created>1527170699244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527170699244</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-403" width="1096" height="1905" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.45348838" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
